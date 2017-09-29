@@ -1,0 +1,7 @@
+CACHE MANIFEST
+index.html
+css/print.css
+css/style.css
+img/profilepic.jpg
+views/images/pizzeria.png
+http://www.google-analytics.com/analytics.js
